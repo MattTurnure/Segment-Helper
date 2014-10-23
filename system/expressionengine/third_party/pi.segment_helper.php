@@ -4,7 +4,7 @@ $plugin_info = array(
   'pi_name' => 'Segment Helper',
   'pi_version' => '1.0.0',
   'pi_author' => 'Matt Turnure',
-  'pi_author_url' => 'http:papercutinteractive.com/',
+  'pi_author_url' => 'http://mattturnure.com/',
   'pi_description' => 'Remove Pagination Segment from URLs',
   'pi_usage' => Segment_helper::usage()
 );
